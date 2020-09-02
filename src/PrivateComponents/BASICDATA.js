@@ -1,10 +1,3 @@
-/*
- * @Descripttion:
- * @Author: Bean
- * @Date: 2020-08-28 14:39:29
- * @LastEditors: Bean
- * @LastEditTime: 2020-08-31 16:02:43
- */
 
 // CRON组件对应的默认数据
 
